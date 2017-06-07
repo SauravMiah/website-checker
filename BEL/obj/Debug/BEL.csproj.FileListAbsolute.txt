@@ -1,0 +1,5 @@
+D:\Mark\Tiered\WebChecker\BEL\bin\Debug\BEL.dll
+D:\Mark\Tiered\WebChecker\BEL\bin\Debug\BEL.pdb
+D:\Mark\Tiered\WebChecker\BEL\obj\Debug\BEL.dll
+D:\Mark\Tiered\WebChecker\BEL\obj\Debug\BEL.pdb
+D:\Mark\Tiered\WebChecker\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache

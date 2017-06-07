@@ -1,0 +1,9 @@
+D:\Mark\Tiered\WebChecker\BLL\bin\Debug\BLL.dll
+D:\Mark\Tiered\WebChecker\BLL\bin\Debug\BLL.pdb
+D:\Mark\Tiered\WebChecker\BLL\bin\Debug\BEL.dll
+D:\Mark\Tiered\WebChecker\BLL\bin\Debug\DAL.dll
+D:\Mark\Tiered\WebChecker\BLL\bin\Debug\BEL.pdb
+D:\Mark\Tiered\WebChecker\BLL\bin\Debug\DAL.pdb
+D:\Mark\Tiered\WebChecker\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Mark\Tiered\WebChecker\BLL\obj\Debug\BLL.dll
+D:\Mark\Tiered\WebChecker\BLL\obj\Debug\BLL.pdb

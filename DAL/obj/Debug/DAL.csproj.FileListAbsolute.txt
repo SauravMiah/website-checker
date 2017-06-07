@@ -1,0 +1,7 @@
+D:\Mark\Tiered\WebChecker\DAL\bin\Debug\DAL.dll
+D:\Mark\Tiered\WebChecker\DAL\bin\Debug\DAL.pdb
+D:\Mark\Tiered\WebChecker\DAL\bin\Debug\BEL.dll
+D:\Mark\Tiered\WebChecker\DAL\bin\Debug\BEL.pdb
+D:\Mark\Tiered\WebChecker\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Mark\Tiered\WebChecker\DAL\obj\Debug\DAL.dll
+D:\Mark\Tiered\WebChecker\DAL\obj\Debug\DAL.pdb
