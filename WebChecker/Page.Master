@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="WebsiteCheckerV2.Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Website Checker</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/png" />
+    <link rel="apple-touch-icon" href="Assets/images/apple-touch-icon-57×57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="Assets/images/apple-touch-icon-72×72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="Assets/images/apple-touch-icon-114×114.png" />
+
+    <link href="Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Assets/css/styles.css" rel="stylesheet" />
+    <script src="Assets/scripts/jquery-1.9.1.js"></script>
+    <script src="Assets/scripts/jquery-ui-1.11.4.min.js"></script>
+    <script src="Assets/scripts/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="pageForm" runat="server">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand siteLogo" href="logs">Website Checker</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="logs">Home</a></li>
+                        <li><a href="websites">Websites</a></li>
+                        <li><a href="servers">Servers</a></li>
+                        <li><a href="logout">Logout</a></li>
+                    </ul>
+
+                </div><!--/.navbar-collapse -->
+            </div>
+        </nav>
+
+        <section style="margin-top:5em;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </section>
+
+        <footer>
+            <div class="container">
+
+            </div>
+        </footer>
+    </form>
+</body>
+</html>
